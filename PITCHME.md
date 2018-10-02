@@ -33,7 +33,7 @@ de terceros que expanden la herramienta. (+400 complementos)
 	2. Calendario
 	2. Configuración aspectos gráficos
 	2. Etc..
-![Imagen2](http://s2.subirimagenes.com/imagen/previo/thump_9868000busqueda.png)
+![Imagen2](/riquerhh/DEMO2-/blob/feature/images/Imagenes/Busqueda.png)
 ---
 ### Dashboard (Tablero, muro)
 · Podemos crear espacios personales y espacios de trabajo
