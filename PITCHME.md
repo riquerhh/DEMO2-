@@ -4,22 +4,21 @@
 
 > Funciona como una Wiki a la vez que los usuarios pueden interaccionar entre
 > ellos como si fuese una Red Social.
-![Imagen1](URL)
+![Imagen2](/Imagenes/Confluence.jpg)
 ---
 ## Funciones principales
 * **Organización**: del equipo y el trabajo
 * **Creación de contenido**: Espacios, páginas, tareas..
 * **Feedback**: Comunicación con los otros usuarios.
-![IMG](URL)
+![Imagen2](/Imagenes/Portada2.png)
 ---
 ## Instalación
 Dos maneras de implementación para Confluence
 - Descargar e instalar en nuestro propio server, detrás del Cortafuegos.
 - Alojarla en Atlassian OnDemand (SaaS). 
 	- Más de 30.000 usuarios.
-> SaaS: Software as a Service, tanto software como los datos se alojan en un
-> servidor externo a la empresa.
-![Imagen](URL)
+*SaaS: Software as a Service, tanto software como los datos se alojan en un
+servidor externo a la empresa.*
 ---
 ### Características
 1. **Gestor Documental:** Incorpora un control de versiones automático
@@ -33,13 +32,16 @@ de terceros que expanden la herramienta. (+400 complementos)
 	2. Calendario
 	2. Configuración aspectos gráficos
 	2. Etc..
-![Imagen2](/Imagenes/Dashboard.png)
+![Imagen2](/Imagenes/Portada2.png)
 ---
 ### Dashboard (Tablero, muro)
 · Podemos crear espacios personales y espacios de trabajo
 Paso 1: Crear el espacio personal y el del equipo
 Paso 2: Configurar el espacio para que sea fácil y accesible
 Paso 3: Aclarar los permisos para cada tipo de usuario
+
+![Imagen2](/Imagenes/Espacios2.png)
+
 ---
 ### Características más utilizadas
 <H5> Creación de páginas
@@ -51,13 +53,17 @@ tanto públicas como privadas, y gestionar todos los permisos de cara a los usua
 - [X] Soluciones de problemas
 - [X] Decisiones del equipo
 - [X] Informes de tareas con seguimiento
-![Imagen3](URL)
+![Imagen2](/Imagenes/Createpag.png)
+---
+![Imagen2](/Imagenes/Createpag2.png)
 ---
 <H5> Tareas
 Se pueden asignar tareas a los usuarios, que automáticamente recibirán
 una notificación (a través de Confluence o vía mail) informando de la misma.
 
-![Imagen](URL)
+![Imagen2](/Imagenes/Ejemplopag.png)
+---
+![Imagen2](/Imagenes/Notificaciones.png)
 ---
 <H5>Tareas
 En el apartado Perfil/Tareas se puede hacer un seguimiento de las tareas pendientes,
@@ -71,7 +77,7 @@ Las páginas se organizan dependiendo del título
 * No se pueden crear dos páginas con el mismo título dentro de un mismo Espacio.
 * Crear secciones dentro del contenido. (Ramas entre las publicaciones)
 * Espacios de uso público y privado.
-![Imagen4](URL)
+![Imagen2](/Imagenes/Espacios2.png)
 ---
 <H5> Espacios
 - Todas las páginas disponen de una zona de comentarios, donde se puede indicar
