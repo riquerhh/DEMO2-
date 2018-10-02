@@ -5,7 +5,7 @@
 > Funciona como una Wiki a la vez que los usuarios pueden interaccionar entre
 > ellos como si fuese una Red Social.
 
-![Imagen2](/Imagenes/Confluence.jpg)
+![Imagen2](/Imagenes/confluence.jpg)
 
 ---
 ## Funciones principales
@@ -22,23 +22,23 @@ Dos maneras de implementación para Confluence
 - Alojarla en Atlassian OnDemand (SaaS). 
 	- Más de 30.000 usuarios.
 
-##### *SaaS: Software as a Service, tanto software como los datos se alojan en un
-servidor externo a la empresa.*
+##### *SaaS: Software as a Service, tanto software como los datos se alojan en un servidor externo a la empresa.*
 
 ---
 
 ### Características
 1. **Gestor Documental:** Incorpora un control de versiones automático
 para los adjuntos y su edición. 
-	1. Compatible con cualquier tipo de documento
+	1a. Compatible con cualquier tipo de documento
 2. **Contenido estructurado:** Se gestiona por zonas y permite pluggins
-de terceros que expanden la herramienta. (+400 complementos) 
-	2. Exportar a PDF, Office..
-	2. Diagramas de trabajo
-	2. Chat incorporado
-	2. Calendario
-	2. Configuración aspectos gráficos
-	2. Etc..
+de terceros que expanden la herramienta. (+400 complementos)
+ 
+	A. Exportar a PDF, Office..
+	B. Diagramas de trabajo
+	C. Chat incorporado
+	D. Calendario
+	E. Configuración aspectos gráficos
+	F. Etc..
 
 ![Imagen2](/Imagenes/Portada2.png)
 
@@ -47,7 +47,9 @@ de terceros que expanden la herramienta. (+400 complementos)
 · Podemos crear espacios personales y espacios de trabajo
 
 1- Crear el espacio personal y el del equipo
+
 2- Configurar el espacio para que sea fácil y accesible
+
 3- Aclarar los permisos para cada tipo de usuario
 
 ![Imagen2](/Imagenes/Dashboard.png)
