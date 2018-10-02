@@ -75,21 +75,21 @@ una notificación (a través de Confluence o vía mail) informando de la misma.
 ---
 ![Imagen2](/Imagenes/Notificaciones.png)
 ---
-<H5>Tareas
+## Tareas
 En el apartado Perfil/Tareas se puede hacer un seguimiento de las tareas pendientes,
 tanto individual como colectivas.
 En caso de ser admin se pueden asignar tareas y tener un seguimiento con el estado,
 las fechas de vencimiento, etc.
 ![IMG](URL)
 ---
-<H5> Espacios
+## Espacios
 Las páginas se organizan dependiendo del título 
 * No se pueden crear dos páginas con el mismo título dentro de un mismo Espacio.
 * Crear secciones dentro del contenido. (Ramas entre las publicaciones)
 * Espacios de uso público y privado.
 ![Imagen2](/Imagenes/Espacios2.png)
 ---
-<H5> Espacios
+## Espacios
 - Todas las páginas disponen de una zona de comentarios, donde se puede indicar
 que te gusta la publicación, o mencionar a otros compañeros (@+nombre).
 - Se pueden añadir infinidad de Macros.
@@ -97,7 +97,7 @@ que te gusta la publicación, o mencionar a otros compañeros (@+nombre).
 
 ![Imagen5](URL)
 ---
-<H5> Espacios
+## Espacios
 - La mayor parte de las acciones se pueden ejecutar con teclas (Métodos abreviados)
 - Al igual que se puede dar formato y texto enriquecido a la vez que se escribe
 	> "/lista", "[]tarea", "< H1 > Título 1.."
