@@ -33,7 +33,7 @@ de terceros que expanden la herramienta. (+400 complementos)
 	2. Calendario
 	2. Configuración aspectos gráficos
 	2. Etc..
-![Imagen2](/riquerhh/DEMO2-/blob/feature/images/Imagenes/Busqueda.png)
+<img src="Imagenes/Busqueda.png" alt="hi" class="inline"/>
 ---
 ### Dashboard (Tablero, muro)
 · Podemos crear espacios personales y espacios de trabajo
