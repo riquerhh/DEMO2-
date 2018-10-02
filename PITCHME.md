@@ -6,12 +6,15 @@
 > ellos como si fuese una Red Social.
 
 ![Imagen2](/Imagenes/Confluence.jpg)
+
 ---
 ## Funciones principales
 * **Organización**: del equipo y el trabajo
 * **Creación de contenido**: Espacios, páginas, tareas..
 * **Feedback**: Comunicación con los otros usuarios.
+
 ![Imagen2](/Imagenes/XXX.png)
+
 ---
 ## Instalación
 Dos maneras de implementación para Confluence
@@ -19,9 +22,11 @@ Dos maneras de implementación para Confluence
 - Alojarla en Atlassian OnDemand (SaaS). 
 	- Más de 30.000 usuarios.
 
-*SaaS: Software as a Service, tanto software como los datos se alojan en un
+##### *SaaS: Software as a Service, tanto software como los datos se alojan en un
 servidor externo a la empresa.*
+
 ---
+
 ### Características
 1. **Gestor Documental:** Incorpora un control de versiones automático
 para los adjuntos y su edición. 
@@ -41,15 +46,15 @@ de terceros que expanden la herramienta. (+400 complementos)
 ### Dashboard (Tablero, muro)
 · Podemos crear espacios personales y espacios de trabajo
 
-Paso 1: Crear el espacio personal y el del equipo
-Paso 2: Configurar el espacio para que sea fácil y accesible
-Paso 3: Aclarar los permisos para cada tipo de usuario
+1- Crear el espacio personal y el del equipo
+2- Configurar el espacio para que sea fácil y accesible
+3- Aclarar los permisos para cada tipo de usuario
 
-![Imagen2](/Imagenes/Espacios2.png)
+![Imagen2](/Imagenes/Dashboard.png)
 
 ---
-### Características más utilizadas
-## Creación de páginas
+## Características más utilizadas
+### Creación de páginas
 
 Se pueden crear multitud de páginas diferentes con gran variedad de Templates,
 tanto públicas como privadas, y gestionar todos los permisos de cara a los usuarios.
@@ -76,17 +81,23 @@ una notificación (a través de Confluence o vía mail) informando de la misma.
 ![Imagen2](/Imagenes/Notificaciones.png)
 ---
 ## Tareas
+
 En el apartado Perfil/Tareas se puede hacer un seguimiento de las tareas pendientes,
 tanto individual como colectivas.
 En caso de ser admin se pueden asignar tareas y tener un seguimiento con el estado,
 las fechas de vencimiento, etc.
+
 ![IMG](URL)
+
 ---
 ## Espacios
 Las páginas se organizan dependiendo del título 
 * No se pueden crear dos páginas con el mismo título dentro de un mismo Espacio.
 * Crear secciones dentro del contenido. (Ramas entre las publicaciones)
 * Espacios de uso público y privado.
+
+- Algunos ejemplos de espacios podrían ser los Departamentos, Proyectos, etc.
+
 ![Imagen2](/Imagenes/Espacios2.png)
 ---
 ## Espacios
@@ -97,12 +108,11 @@ que te gusta la publicación, o mencionar a otros compañeros (@+nombre).
 
 ![Imagen5](URL)
 ---
-## Espacios
+## Contenido
 - La mayor parte de las acciones se pueden ejecutar con teclas (Métodos abreviados)
 - Al igual que se puede dar formato y texto enriquecido a la vez que se escribe
 	> "/lista", "[]tarea", "< H1 > Título 1.."
 
-- Algunos ejemplos de espacios podrían ser los Departamentos, Proyectos, etc.
 
 ![Imagen6](URL)
 ---
