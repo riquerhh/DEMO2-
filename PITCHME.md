@@ -33,7 +33,9 @@ de terceros que expanden la herramienta. (+400 complementos)
 	2. Calendario
 	2. Configuración aspectos gráficos
 	2. Etc..
+
 ![Imagen2](/Imagenes/Dashboard.png)
+
 ---
 ### Dashboard (Tablero, muro)
 · Podemos crear espacios personales y espacios de trabajo
