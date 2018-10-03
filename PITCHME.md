@@ -1,41 +1,44 @@
 ## Qué es Confluence?
-> Plataforma de colaboración en equipo donde intercambiar ideas y crear 
-> contenido, apoyar y desarrollar proyectos..
+· Plataforma de colaboración en equipo donde intercambiar ideas y crear 
+contenido, apoyar y desarrollar proyectos..
 
-> Funciona como una Wiki a la vez que los usuarios pueden interaccionar entre
-> ellos como si fuese una Red Social.
+· Funciona como una Wiki a la vez que los usuarios pueden interaccionar entre
+ellos como si fuese una Red Social.
 
-	_**Wiki**: Sistema de trabajo informático utilizado en los sitios web que permite
-a los usuarios modificar o crear contenido de forma rápida y sencilla._
+> *Wiki: Sistema de trabajo informático utilizado en los sitios web que permite
+> a los usuarios modificar o crear contenido de forma rápida y sencilla.*
 
 ---
 ![Imagen2](/Imagenes/confluence.jpg)
 ---
 
-## Instalación
-Dos maneras de implementación para Confluence
+## **Instalación**
+Dos maneras de implementación para Confluence:
 - Descargar e instalar en nuestro propio server, detrás del Cortafuegos.
 
 - Alojarla en Atlassian OnDemand (SaaS). 
 	- Más de 30.000 usuarios.
 
-##### *SaaS: Software as a Service, tanto software como los datos se alojan en un servidor externo a la empresa.*
+##### *SaaS: Software as a Service, tanto el software como los datos se alojan en un servidor externo a la empresa.*
 
 ---
 
-## Funciones principales
+## **Funciones principales**
 * **Organización**: del equipo y el trabajo
 * **Creación de contenido**: Espacios, páginas, tareas..
 * **Feedback**: Comunicación con los otros usuarios
 
 ---
 
-### Características
+### **Características**
 1. **Gestor Documental:** Incorpora un control de versiones automático
 para los adjuntos y su edición. 
-	1a. Compatible con cualquier tipo de documento
+	1. Compatible con cualquier tipo de documento
+
 2. **Contenido estructurado:** Se gestiona por zonas (o espacios), y permite pluggins
 de terceros que expanden la herramienta. (+400 complementos)
+
+---
  
 	A. Exportar a PDF, Office..
 	B. Diagramas de trabajo
@@ -46,15 +49,11 @@ de terceros que expanden la herramienta. (+400 complementos)
 
 ---
 
-![Imagen2](/Imagenes/Portada2.png)
-
----
-
 ![Imagen2](/Imagenes/Ejemplopag2.png)
 
 ---
 
-### Dashboard (Tablero, muro)
+### **Dashboard (Tablero, muro)**
 · Podemos crear espacios personales y espacios de trabajo
 
 1- Crear el espacio personal y el del equipo
@@ -68,11 +67,13 @@ de terceros que expanden la herramienta. (+400 complementos)
 ![Imagen2](/Imagenes/Dashboard.png)
 
 ---
-## Características más utilizadas
+## **Características más utilizadas**
 ### Creación de páginas
 
 Se pueden crear multitud de páginas diferentes con gran variedad de Templates,
 tanto públicas como privadas, y gestionar todos los permisos de cara a los usuarios.
+
+---
 
 - [X] Artículos (enlaces y contenido Web, tablas de Contenido, imágenes..)
 - [ ] Informes de Jira
@@ -91,9 +92,9 @@ tanto públicas como privadas, y gestionar todos los permisos de cara a los usua
 
 ---
 
-## Permisos flexibles
+## **Permisos flexibles**
 
-Controla la creación, la edificón y la visibilidad de todo el contenido
+Controla la creación, edición y visibilidad de todo el contenido
 con permisos seguros y graduales.
 
 ---
@@ -106,7 +107,7 @@ con permisos seguros y graduales.
 
 ---
 
-## Tareas
+## **Tareas**
 Se pueden asignar tareas a los usuarios, que automáticamente recibirán
 una notificación (a través de Confluence/vía mail) informando de la misma.
 
@@ -124,11 +125,10 @@ una notificación (a través de Confluence/vía mail) informando de la misma.
 
 ---
 
-## Tareas
+En el apartado "Perfil/Tareas" se puede hacer un seguimiento de las tareas pendientes,
+tanto individuales como colectivas.
 
-En el apartado Perfil/Tareas se puede hacer un seguimiento de las tareas pendientes,
-tanto individual como colectivas.
-Se pueden asignar tareas y tener un seguimiento con el estado, las fechas de vencimiento, etc.
+Se pueden asignar tareas y tener un seguimiento de su estado, la fecha de vencimiento, etc.
 
 ---
 
@@ -136,13 +136,13 @@ Se pueden asignar tareas y tener un seguimiento con el estado, las fechas de ven
 
 ---
 
-## Espacios
+## **Espacios**
 Las páginas se organizan en espacios, dependiendo del título.
 * No se pueden crear dos páginas con el mismo título dentro de un mismo Espacio.
 * Crear secciones dentro del contenido. (Ramas entre las publicaciones)
 * Espacios de uso público y privado.
 
-- Algunos ejemplos de espacios podrían ser los Departamentos, Proyectos, etc.
+	Ejemplos de espacios: Departamentos, Proyectos...
 
 ---
 
@@ -150,9 +150,9 @@ Las páginas se organizan en espacios, dependiendo del título.
 
 ---
 
-## Espacios
+## **Espacios**
 - Todas las páginas disponen de una zona de comentarios, donde se puede indicar
-que te gusta la publicación, o mencionar a otros compañeros (@+nombre).
+que te gusta la publicación o mencionar a otros compañeros (@+nombre), por ejemplo.
 - Se pueden añadir infinidad de Macros.
 	- Actualizaciones, Advertencias, Bloques de código XML, Compartir, Adjuntar Archivo..
 
@@ -161,8 +161,9 @@ que te gusta la publicación, o mencionar a otros compañeros (@+nombre).
 ![Imagen2](/Imagenes/Macrocoment.png)
 
 ---
-## Contenido
-- Dispone de un buscador en la página principal, que permite filtrar la búsqueda por
+
+## **Buscador**
+- Dispone de un buscador en la página principal que permite filtrar la búsqueda por
 términos específicos.
 
 ---
@@ -175,12 +176,17 @@ términos específicos.
 
 - La mayor parte de las acciones se pueden ejecutar con teclas (Métodos abreviados)
 - Se puede dar formato y texto enriquecido a la vez que se escribe
-	> "/lista", "[]tarea", "< H1 > Título 1.."
+	> "/lista", "[]tarea", "# Título 1, ## Título 2.."
 
 ---
 
 ![Imagen2](/Imagenes/enriquecido.png)
 
+---
+
+![Imagen2](/Imagenes/fin.png)
+
+---
 
 
 
